@@ -1,6 +1,6 @@
 
 # Hava Durumu Uygulaması
-WeatherApp, kullanıcıların herhangi bir şehir için mevcut hava durumunu kontrol etmelerini sağlayan basit bir Tkinter tabanlı uygulamadır. Şehir adı, sıcaklık, hava durumu açıklaması ve mevcut hava durumunu temsil eden bir simgeyi görüntüler.
+WeatherApp, kullanıcıların herhangi bir şehir için mevcut hava durumunu kontrol etmelerini sağlayan bir Tkinter tabanlı uygulamadır. Şehir adı, sıcaklık, hava durumu açıklaması ve mevcut hava durumunu temsil eden bir simgeyi görüntüler.
 
 
 
